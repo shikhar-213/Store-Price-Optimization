@@ -41,7 +41,12 @@ To get started with the task of Price Optimization, we need a dataset based on s
 
 ## Analysis
 - Comparing price distribution with competition
-![price_distribution](graphs & outputs/Price_Distribution.png)
+
+![price_distribution](outputs/Price_Distribution.png)
+
+- Relationship between price and sales amount
+  
+![price_distribution](outputs/Price-vs-Sales-(Our_store-&-Competition).png)
 
 ## Results
 
